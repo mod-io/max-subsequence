@@ -6,6 +6,7 @@
 | Stephen | 63144483 |
 
 ## Repository Structure
+```
 max-subsequence/
 ├── src/
 │   ├── subsequence.py       
@@ -16,9 +17,11 @@ max-subsequence/
 ├── tests/
 │   └── subsequenceTests.py  
 └── README.md
+```
 
 ## Dependencies
 Python 3.8+
+
 matplotlib (only needed for  graph)
 
 pip install matplotlib
@@ -42,19 +45,19 @@ python3 tests/subsequenceTests.py
 
 ## Example
 Input file: data/example1.in
-
+```
 3
 a 2
 b 4
 c 5
 aacb
 caab
-
+```
 Output file: data/example1.out
-
+```
 9
 cb
-
+```
 To reproduce:
 python3 src/subsequence.py > data/example1.out
 
