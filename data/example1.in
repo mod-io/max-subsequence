@@ -1,14 +1,6 @@
-Input Format:
-K
-x1 v1
-x2 v2
-...
-xK vK
-A
-B
-
-K - num characters in the alphabet
-x1...xK - each of the next K lines contains characters
-v1...vK - each character has value associated with it
-A - the first string
-B - the second string
+3
+a 2
+b 4
+c 5
+aacb
+caab
