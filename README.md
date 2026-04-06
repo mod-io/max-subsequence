@@ -3,7 +3,7 @@
 ## Student Information
 | Name | UFID |
 |------|------|
-| Stephen | 63144483 |
+| Stephen Davis | 63144483 |
 
 ## Repository Structure
 ```
